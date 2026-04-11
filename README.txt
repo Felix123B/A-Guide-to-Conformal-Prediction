@@ -19,7 +19,7 @@ Classification: numpy, matplotlib, torch, torchvision, pandas
 
 REGRESSION NOTEBOOK
 -------------------
-Dataset: 8-point synthetic dataset + 10 generated test points (numpy random).
+Dataset: 18 generated test points (numpy random).
 
 Sections:
   1. Setup & Dataset
