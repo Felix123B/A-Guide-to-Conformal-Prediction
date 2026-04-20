@@ -74,7 +74,7 @@ Sections:
   4. Evaluation & Softmax Probabilities
      Reports test accuracy. Draws 14 random test examples with true/predicted
      labels and builds a probability DataFrame (columns: example, true, pred,
-     0..9). The first 4 rows are used as the calibration set, the last 10 as
+     0..9). The first 10 rows are used as the calibration set, the last 4 as
      the test set.
 
   5. Vanilla Split Conformal Classification (SCP)
